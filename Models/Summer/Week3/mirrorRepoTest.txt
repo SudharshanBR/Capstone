@@ -3,4 +3,4 @@ Testing GitLab push -> GitHub push -> Mirrored Repository.
 Test complete.
 Pushes to Gitlab now get pushed to GitHub too. That's nice.
 
-Bye.
+This is to fix the gitlab push SSL certificate issue.
